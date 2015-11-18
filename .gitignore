@@ -10,3 +10,31 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.iml
+.idea
+logs/**
+out/**
+
+target/
+
+
+*.iml
+*.ipr
+*.iws
+*.log
+*.*_orig
+**.classpath**
+**.project**
+**.settings**
+*.class
+*.jar
+.sass-cache
+.sass-cache/**
+*.releaseBackup
+*.zip
+war/grunt.conf.json
+war/src/main/webapp/bl/resources/css/back-office.css
+war/node/
+war/node_modules/
+integration-tests/tomcat/
